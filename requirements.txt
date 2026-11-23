@@ -1,0 +1,6 @@
+streamlit
+requests
+pillow
+azure-ai-textanalytics
+azure-cognitiveservices-speech
+azure-ai-vision-imageanalysis
